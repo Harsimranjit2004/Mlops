@@ -9,7 +9,10 @@ import seaborn as sns
 from sklearn.datasets import load_iris
 # Load the iris dataset
 
-mlflow.set_tracking_uri('http://127.0.0.1:5000')
+import dagshub
+dagshub.init(repo_owner='Harsimranjit2004', repo_name='Mlops', mlflow=True)
+
+mlflow.set_tracking_uri('https://dagshub.com/Harsimranjit2004/Mlops.mlflow')
 iris = load_iris()
 X = iris.data 
 y = iris.target 
