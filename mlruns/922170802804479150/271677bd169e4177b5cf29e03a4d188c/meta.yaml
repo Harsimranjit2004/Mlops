@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/922170802804479150/271677bd169e4177b5cf29e03a4d188c/artifacts
+end_time: 1725071353857
+entry_point_name: ''
+experiment_id: '922170802804479150'
+lifecycle_stage: active
+run_id: 271677bd169e4177b5cf29e03a4d188c
+run_name: capable-fowl-975
+run_uuid: 271677bd169e4177b5cf29e03a4d188c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725071349353
+status: 3
+tags: []
+user_id: harsimranjitsingh

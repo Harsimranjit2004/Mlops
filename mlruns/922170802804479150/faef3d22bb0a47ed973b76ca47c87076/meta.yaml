@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/922170802804479150/faef3d22bb0a47ed973b76ca47c87076/artifacts
+end_time: 1725070565549
+entry_point_name: ''
+experiment_id: '922170802804479150'
+lifecycle_stage: active
+run_id: faef3d22bb0a47ed973b76ca47c87076
+run_name: crawling-hound-713
+run_uuid: faef3d22bb0a47ed973b76ca47c87076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725070564796
+status: 4
+tags: []
+user_id: harsimranjitsingh
